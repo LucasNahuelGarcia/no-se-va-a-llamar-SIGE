@@ -1,0 +1,6 @@
+Usuario:
+    - tipo
+    - nombre
+    - contraseña
+    - foto de perfil
+    - contacto (email, numeros de telefono, direccion)
